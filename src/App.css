@@ -1,9 +1,17 @@
 ul {
   display: flex;
   flex-wrap: wrap;
+  color: white;
 }
 
 li {
   list-style: none;
   margin: 10px;
+  color: white;
+}
+body {
+  background-color: rgb(31, 57, 57);
+}
+h1, h2, h3 {
+  color: white;
 }
